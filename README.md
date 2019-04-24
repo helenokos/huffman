@@ -1,4 +1,5 @@
-使用方法：
+使用方法：  
+
 (1) 壓縮 : ./huffman.exe -c -i infile -o compressfile.txt
 (2) 解壓 : ./huffman.exe -u -i compressfile.txt -o uncompressfile
 
