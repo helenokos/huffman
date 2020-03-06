@@ -6,4 +6,4 @@
 
 舉例：  
 ./huffman.exe -c -i cat.jpeg -o compress.txt  
-./huggman.exe -u -i compress.txt -o copy.jpeg
+./huffman.exe -u -i compress.txt -o copy.jpeg
