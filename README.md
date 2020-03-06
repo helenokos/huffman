@@ -1,4 +1,4 @@
-用 c++ 實做 Hufman 壓縮,解壓縮檔案的簡易小工具  
+#用 c++ 實做 Hufman 壓縮,解壓縮檔案的簡易小工具  
   
 使用方法：  
 (1) 壓縮 : ./huffman.exe -c -i infile -o compressfile.txt  
